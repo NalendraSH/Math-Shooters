@@ -1,0 +1,14 @@
+List kekurangan Math Shooters
+
+1. Explosion Effect x
+2. Header bar -
+3. Main Menu
+4. Splash Screen
+5. Saved Score -
+6. Audio(BG-, shooting-, hitted-) -
+7. Background Moving - 
+8. Text material -
+9. Health bar -
+10. Notification if wrong result is hitted -
+11. Hint/manual
+12. Android event trigger
