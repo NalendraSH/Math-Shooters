@@ -1,7 +1,7 @@
 # Description
 Sebuah game 2D yang simpel dimana anda dapat bersenang-senang sekaligus melatih kecepatan berfikir.
 
-![alt text](https://raw.github.com/NalendraSH/Math-Shooters/Math%20Shooters/ScreenShot/gameplay.png)
+![alt text](https://github.com/NalendraSH/Math-Shooters/Math%20Shooters/ScreenShot/gameplay.png)
 
 # How to play
 1. Klik play pada bagian home / menu game
