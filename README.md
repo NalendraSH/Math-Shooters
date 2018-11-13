@@ -1,10 +1,6 @@
 # Description
 Sebuah game 2D yang simpel dimana anda dapat bersenang-senang sekaligus melatih kecepatan berfikir.
 
-![alt text](https://ibb.co/m3nC3V)
-
-![alt text](https://ibb.co/eft8cq)
-
 # How to play
 1. Klik play pada bagian home / menu game
 2. Anda akan melihat sebuah soal di bagian tengah atas
